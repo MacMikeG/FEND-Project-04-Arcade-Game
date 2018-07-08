@@ -1,8 +1,3 @@
-/*
-HOW TO RANDOMIZE THE ENEMIES?
-var a = ['a', 'b', 'c', 'd', 'e', 'f'];
-var randomValue = a[Math.floor(a.length * Math.random())];
-*/
 
 /*ENEMIES*/
 // Enemies our player must avoid

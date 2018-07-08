@@ -21,8 +21,6 @@
     Each of 3 enemies is located on the individual row of the game board.
     
     Enemies move is looped: each one appears on the left, outside of the border and travels smoothly to the right until disappears behind the edge.
-    
-    The speed of each of the enemies is randomized with every loop.
 
     After winning, the dialog window shows up and the player is moved back to the beginning. 
 
@@ -38,3 +36,7 @@
 
     Live preview:
     https://htmlpreview.github.io/?https://github.com/MacMikeG/frontend-nanodegree-arcade-game/blob/master/index.html
+
+## To do:
+
+    Randomize the enemies.
