@@ -36,7 +36,5 @@
 
 ## How to play:
 
-    - `Up arrow` moves player one square up
-    - `Down arrow` moves player one squere down
-    - `left arrow` moves player one square left
-    - `right arrow` moves player one square right
+    Live preview:
+    https://htmlpreview.github.io/?https://github.com/MacMikeG/frontend-nanodegree-arcade-game/blob/master/index.html
